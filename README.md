@@ -7,6 +7,7 @@ Description: A simple video player, playing Cruel Angel's Thesis
 - .play functionality
 - .skip functionality
 - .scrub funcionality
-- progressbar functionality
+- progress bar functionality
 
 Evangelion and it's associated media is property of Gainax, Japan.
+Content used for non profit, private usage.
