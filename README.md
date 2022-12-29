@@ -1,4 +1,4 @@
-## Javascript Canvas
+## Javascript Video Player
 
 Description: A simple video player, playing Cruel Angel's Thesis 
 
